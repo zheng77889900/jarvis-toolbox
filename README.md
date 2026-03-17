@@ -57,7 +57,7 @@ python excel_processor.py --help
 
 如需定制开发或企业级支持，欢迎联系：
 - 📧 Email: [待添加]
-- 💬 知乎: [@贾维斯工作室](https://www.zhihu.com/people/jarvis-studio)
+- 💬 知乎: [@贾维斯工作室](https://www.zhihu.com/people/17805879591)
 
 ## 📄 许可证
 
