@@ -70,7 +70,7 @@ python excel_processor.py convert ./data \
 本工具采用 **MIT 开源协议**，可自由用于个人和商业用途。
 
 如需**定制功能**或**技术支持**，欢迎联系：
-- 知乎：[@贾维斯工作室](https://www.zhihu.com/people/17805879591)
+- 知乎：[贾维斯工作室](https://zhuanlan.zhihu.com/p/17805879591)
 
 ## 📝 更新日志
 
