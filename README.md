@@ -19,7 +19,10 @@
 - 📝 使用文档：[查看详情](./excel-processor/README.md)
 
 ### 2. PDF 智能工具箱 (`pdf-tools/`)
-- 🚧 开发中...
+- ✅ PDF 合并、拆分
+- ✅ 加密、解密
+- ✅ 文件信息查看
+- 📝 使用文档：[查看详情](./pdf-tools/README.md)
 
 ### 3. 图片批量处理器 (`image-processor/`)
 - 🚧 开发中...
@@ -36,6 +39,7 @@
 - **Python 3.10+** - 核心语言
 - **Pandas** - 数据处理
 - **OpenPyXL** - Excel 操作
+- **PyPDF2** - PDF 处理
 - **Typer** - CLI 界面
 
 ## 📦 快速开始
@@ -48,9 +52,13 @@ cd jarvis-toolbox
 # 安装依赖
 pip install -r requirements.txt
 
-# 使用工具
+# 使用 Excel 工具
 cd excel-processor
 python excel_processor.py --help
+
+# 使用 PDF 工具
+cd pdf-tools
+python pdf_tools.py --help
 ```
 
 ## 🤝 商业合作
