@@ -25,7 +25,10 @@
 - 📝 使用文档：[查看详情](./pdf-tools/README.md)
 
 ### 3. 图片批量处理器 (`image-processor/`)
-- 🚧 开发中...
+- ✅ 格式转换、尺寸调整
+- ✅ 压缩、重命名、水印
+- ✅ 图片信息查看
+- 📝 使用文档：[查看详情](./image-processor/README.md)
 
 ## 💡 适用场景
 
@@ -40,6 +43,7 @@
 - **Pandas** - 数据处理
 - **OpenPyXL** - Excel 操作
 - **PyPDF2** - PDF 处理
+- **Pillow** - 图片处理
 - **Typer** - CLI 界面
 
 ## 📦 快速开始
@@ -59,6 +63,10 @@ python excel_processor.py --help
 # 使用 PDF 工具
 cd pdf-tools
 python pdf_tools.py --help
+
+# 使用图片工具
+cd image-processor
+python image_processor.py --help
 ```
 
 ## 🤝 商业合作
